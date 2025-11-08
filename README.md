@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! 👋 I'm Shakeel Batool
 
-<!--
-**shakeelaBatool/shakeelaBatool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Mathematics student at Namal University, passionate about **data science**, **machine learning**, and **programming**.  
+💡 I love solving problems using logic, numbers, and technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 What I'm Passionate About
+- 📊 **Data Science** – Turning data into meaningful insights  
+- 💻 **Programming** – Writing clean and efficient Python code  
+- 📈 **Machine Learning** – Exploring algorithms that make systems smarter  
+- 🌐 **Education** – Empowering girls through modern education  
+
+---
+
+## 🌟 Featured Projects
+- 🧠 **Conditional Probability Project**
+- 💱 **Currency Converter (Python)**
+- 🔢 **Prime Number Finder**
+- 🎮 **Hangman Game**
+
+---
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](your-linkedin-link)
+[![GitHub](https://img.shields.io/badge/GitHub-black)](your-github-link)
