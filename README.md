@@ -25,4 +25,8 @@
 ]
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true)
 ![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?shakeelaBatool=shakeelaBatool&theme=react-dark)
+## 📈 Contribution Graph
+
+![Shakeela Batool Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=YOUR_NAME%20Contribution%20Graph&theme=react-dark&bg_color=000000&color=00eaff&line=00eaff&point=ffffff&area=true&hide_border=true)
+
 
