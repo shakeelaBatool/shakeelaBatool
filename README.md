@@ -24,3 +24,6 @@
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](your-linkedin-link)
 [![GitHub](https://img.shields.io/badge/GitHub-black)](your-github-link)
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true)
+![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+
