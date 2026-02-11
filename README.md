@@ -23,8 +23,9 @@
 
 ## GitHub Stats:
 
-[(https://streak-stats.demolab.com?user=shakeelaBatool&theme=radical&hide_border=true&cache_seconds=0
+[[(https://streak-stats.demolab.com?user=shakeelaBatool&theme=radical&hide_border=true&cache_seconds=0
 )](https://streak-stats.demolab.com?user=shakeelaBatool&theme=radical&hide_border=true&v=2
+)](https://streak-stats.demolab.com?user=shakeelaBatool&theme=radical&hide_border=true
 )](https://streak-stats.demolab.com?user=shakeelaBatool&theme=radical&hide_border=true
 )
 
