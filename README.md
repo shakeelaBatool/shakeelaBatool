@@ -23,7 +23,8 @@
 
 ## GitHub Stats:
 
-https://streak-stats.demolab.com?user=shakeelaBatool&theme=radical&hide_border=true
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=shakeelaBatool&theme=radical&hide_border=true)
+
 
 
 ## 📈 Contribution Graph
