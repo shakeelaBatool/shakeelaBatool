@@ -27,8 +27,5 @@
 
 
 
-## 📈 Contribution Graph
-
-![Shakeela Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shakeelaBatool&theme=react-dark&area=true)
 
 
