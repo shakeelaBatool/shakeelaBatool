@@ -21,7 +21,7 @@
 
 ---
 
-## GitHub Stats:
+## GitHub Streaks:
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=shakeelaBatool&theme=radical&hide_border=true)
 
