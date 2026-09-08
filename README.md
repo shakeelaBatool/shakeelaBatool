@@ -3,7 +3,7 @@
   <!-- Blue Waving Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00203F,100:0077B6&height=200&section=header&text=Shakeela%20Batool&fontSize=40&fontColor=ffffff&subtext=AI/ML%20Enthusiast%20%C2%B7%20Data%20Science%20Learner&subFontSize=18&subColor=ADE8F4" width="100%" />
 
-  <br/><br/>
+  <br/>
 
   
   <a href="https://git.io/typing-svg">
