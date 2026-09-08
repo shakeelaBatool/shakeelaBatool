@@ -1,7 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002b49,100:0088cc&height=220&section=header&text=Shakeela%20Batool&fontSize=42&fontColor=ffffff&animation=fadeIn&subtext=AI/ML%20Enthusiast%20%C2%B7%20Data%20Science%20Learner&subFontSize=18&subColor=a0d8ef" width="100%" />
-</div>
-<div align="center">
 
   <!-- Blue Waving Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00203F,100:0077B6&height=200&section=header&text=Shakeela%20Batool&fontSize=40&fontColor=ffffff&subtext=AI/ML%20Enthusiast%20%C2%B7%20Data%20Science%20Learner&subFontSize=18&subColor=ADE8F4" width="100%" />
