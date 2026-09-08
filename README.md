@@ -5,9 +5,9 @@
 
   <br/><br/>
 
-  <!-- Typing Animation (Jo khud type aur remove hota hai) -->
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0088FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Data+Science+Learner;Building+AI+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0088FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Data+Science+Learner" alt="Typing SVG" />
   </a>
 
   <br/><br/>
