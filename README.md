@@ -7,10 +7,7 @@
   </a>
 
 </div>
-🎓 I'm a Mathematics student at Namal University, passionate about **data science**, **machine learning**, and **programming**.  
-💡 I love solving problems using logic, numbers, and technology.
 
----
 
 ## 🔍 What I'm Passionate About
 - 📊 **Data Science** – Turning data into meaningful insights  
