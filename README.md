@@ -23,128 +23,59 @@
 - 🔢 **Prime Number Finder**
 - 🎮 **Hangman Game**
 
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="./github-analytics.svg" width="100%" alt="GitHub Analytics">
+
+</div>
+
 ---
 
-name: GitHub Analytics
+## 📈 GitHub Statistics
 
-on:
-  # Update analytics automatically every day
-  schedule:
-    - cron: "0 0 * * *"
+<div align="center">
 
-  # Allow you to run it manually
-  workflow_dispatch:
+<img
+  src="https://github-readme-stats.vercel.app/api?username=shakeelaBatool&show_icons=true&theme=tokyonight&hide_border=true"
+  height="180"
+  alt="GitHub Stats"
+/>
 
-jobs:
-  github-analytics:
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakeelaBatool&layout=compact&theme=tokyonight&hide_border=true"
+  height="180"
+  alt="Top Languages"
+/>
 
-    runs-on: ubuntu-latest
+</div>
 
-    permissions:
-      contents: write
+---
 
-    steps:
+## 🔥 Contribution Streak
 
-      - name: Generate GitHub Analytics
-        uses: lowlighter/metrics@latest
+<div align="center">
 
-        with:
+<img
+  src="https://streak-stats.demolab.com?user=shakeelaBatool&theme=tokyonight&hide_border=true"
+  width="70%"
+  alt="GitHub Streak"
+/>
 
-          # ==================================================
-          # YOUR GITHUB USERNAME
-          # ==================================================
+</div>
 
-          user: shakeelaBatool
+---
 
-          # GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
+## 🛠️ Skills
 
-          # Name of generated analytics file
-          filename: github-analytics.svg
+### Programming
 
-          # Pakistan timezone
-          config_timezone: Asia/Karachi
-
-          # Large dashboard
-          config_display: large
-
-
-          # ==================================================
-          # BASIC PROFILE INFORMATION
-          # ==================================================
-
-          base: header, activity, community, repositories, metadata
-
-
-          # ==================================================
-          # ISOMETRIC CONTRIBUTION CALENDAR
-          # ==================================================
-
-          plugin_isocalendar: yes
-
-          plugin_isocalendar_duration: full-year
-
-
-          # ==================================================
-          # MOST USED LANGUAGES
-          # ==================================================
-
-          plugin_languages: yes
-
-          plugin_languages_limit: 12
-
-          plugin_languages_details: bytes-size, percentage
-
-          plugin_languages_sections: most-used, recently-used
-
-
-          # ==================================================
-          # CODING HABITS
-          # ==================================================
-
-          plugin_habits: yes
-
-          plugin_habits_facts: yes
-
-          plugin_habits_charts: yes
-
-          plugin_habits_days: 14
-
-
-          # ==================================================
-          # CONTRIBUTION CALENDAR
-          # ==================================================
-
-          plugin_calendar: yes
-
-          plugin_calendar_limit: 1
-
-
-          # ==================================================
-          # ACHIEVEMENTS
-          # ==================================================
-
-          plugin_achievements: yes
-
-          plugin_achievements_display: compact
-
-
-          # ==================================================
-          # RECENT ACTIVITY
-          # ==================================================
-
-          plugin_activity: yes
-
-          plugin_activity_limit: 5
-
-          plugin_activity_days: 30
-
-
-          # ==================================================
-          # ERROR HANDLING
-          # ==================================================
-
-          plugins_errors_fatal: no
+```text
+Python
+C++
+HTML
+CSS
 
 
 
