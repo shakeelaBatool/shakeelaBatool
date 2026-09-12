@@ -51,26 +51,6 @@
 
 </div>
 
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=shakeelaBatool&theme=tokyonight&hide_border=true"
-  width="70%"
-  alt="GitHub Streak"
-/>
-
-</div>
-
----
-
-## 🛠️ Skills
-
-### Programming
-
 ```text
 Python
 C++
