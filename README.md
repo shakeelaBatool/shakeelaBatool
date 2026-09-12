@@ -25,7 +25,126 @@
 
 ---
 
+name: GitHub Analytics
 
+on:
+  # Update analytics automatically every day
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Allow you to run it manually
+  workflow_dispatch:
+
+jobs:
+  github-analytics:
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+
+      - name: Generate GitHub Analytics
+        uses: lowlighter/metrics@latest
+
+        with:
+
+          # ==================================================
+          # YOUR GITHUB USERNAME
+          # ==================================================
+
+          user: shakeelaBatool
+
+          # GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Name of generated analytics file
+          filename: github-analytics.svg
+
+          # Pakistan timezone
+          config_timezone: Asia/Karachi
+
+          # Large dashboard
+          config_display: large
+
+
+          # ==================================================
+          # BASIC PROFILE INFORMATION
+          # ==================================================
+
+          base: header, activity, community, repositories, metadata
+
+
+          # ==================================================
+          # ISOMETRIC CONTRIBUTION CALENDAR
+          # ==================================================
+
+          plugin_isocalendar: yes
+
+          plugin_isocalendar_duration: full-year
+
+
+          # ==================================================
+          # MOST USED LANGUAGES
+          # ==================================================
+
+          plugin_languages: yes
+
+          plugin_languages_limit: 12
+
+          plugin_languages_details: bytes-size, percentage
+
+          plugin_languages_sections: most-used, recently-used
+
+
+          # ==================================================
+          # CODING HABITS
+          # ==================================================
+
+          plugin_habits: yes
+
+          plugin_habits_facts: yes
+
+          plugin_habits_charts: yes
+
+          plugin_habits_days: 14
+
+
+          # ==================================================
+          # CONTRIBUTION CALENDAR
+          # ==================================================
+
+          plugin_calendar: yes
+
+          plugin_calendar_limit: 1
+
+
+          # ==================================================
+          # ACHIEVEMENTS
+          # ==================================================
+
+          plugin_achievements: yes
+
+          plugin_achievements_display: compact
+
+
+          # ==================================================
+          # RECENT ACTIVITY
+          # ==================================================
+
+          plugin_activity: yes
+
+          plugin_activity_limit: 5
+
+          plugin_activity_days: 30
+
+
+          # ==================================================
+          # ERROR HANDLING
+          # ==================================================
+
+          plugins_errors_fatal: no
 
 
 
