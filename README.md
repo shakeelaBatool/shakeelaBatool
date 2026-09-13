@@ -33,29 +33,7 @@
 
 ---
 
-## 📈 GitHub Statistics
 
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=shakeelaBatool&show_icons=true&theme=tokyonight&hide_border=true"
-  height="180"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakeelaBatool&layout=compact&theme=tokyonight&hide_border=true"
-  height="180"
-  alt="Top Languages"
-/>
-
-</div>
-
-```text
-Python
-C++
-HTML
-CSS
 
 
 
