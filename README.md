@@ -16,19 +16,13 @@
 
 ---
 
-## 🌟 Featured Projects
-- 🧠 **Conditional Probability Project**
-- 💱 **Currency Converter (Python)**
-- 🔢 **Prime Number Finder**
-- 🎮 **Hangman Game**
+##  Featured Projects
+-  **Conditional Probability Project**
+-  **Currency Converter (Python)**
+-  **Prime Number Finder**
+-  **Hangman Game**
 
-# 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="./github-analytics.svg" width="100%" alt="GitHub Analytics">
-
-</div>
 
 ---
 
