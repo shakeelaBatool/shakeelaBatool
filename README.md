@@ -25,22 +25,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🔍 What I'm Passionate About
-- 📊 **Data Science** – Turning data into meaningful insights  
-- 💻 **Programming** – Writing clean and efficient Python code  
-- 📈 **Machine Learning** – Exploring algorithms that make systems smarter  
-- 🌐 **Education** – Empowering girls through modern education  
-
----
-
-##  Featured Projects
--  **Conditional Probability Project**
--  **Currency Converter (Python)**
--  **Prime Number Finder**
--  **Hangman Game**
-
-
-
 ---
 
 
