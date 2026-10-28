@@ -6,7 +6,7 @@
   </a>
 
 </div>
-##💫 About Me:
+##💫 About Me:<br>
 📊 Data Science – Turning data into meaningful insights<br>💻 Programming – Writing clean and efficient Python code<br>📈 Machine Learning – Exploring algorithms that make systems smarter<br>🌐 Education – Empowering girls through modern education
 
 
